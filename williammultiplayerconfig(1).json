@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "WilliamMultiplayer",
+        "Category": "ServerForMyGame",
+        "Description": "MyServer",
+        "Keywords": "",
+        "FieldName": "",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
