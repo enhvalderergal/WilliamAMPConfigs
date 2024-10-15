@@ -1,0 +1,54 @@
+[
+    {
+        "DisplayName": "YoutubeKanal",
+        "Category": "Youtube",
+        "Description": "Hvilken kanal der skal moniteres (URL)",
+        "Keywords": "Kanal Youtube",
+        "FieldName": "--channel",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "--channel",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Auther",
+        "Category": "Youtube",
+        "Description": "Kanal navnet.",
+        "Keywords": "Auther name",
+        "FieldName": "--auther",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "--auther",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "timer",
+        "Category": "Performance",
+        "Description": "Time between channel checks",
+        "Keywords": "timer",
+        "FieldName": "--timer",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "--timer",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "10",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "webhookurl",
+        "Category": "Discord",
+        "Description": "The Webhook url to discord",
+        "Keywords": "Webhook",
+        "FieldName": "--webhookurl",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "--webhookurl",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
