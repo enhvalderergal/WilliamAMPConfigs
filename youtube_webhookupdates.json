@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "UpdateStageName": "UpdateGit",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceArgs": "enhvalderergal/WilliamAMPConfigs",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
