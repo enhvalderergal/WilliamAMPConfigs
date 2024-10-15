@@ -3,7 +3,7 @@
         "UpdateStageName": "UpdateGit",
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "GithubRelease",
-        "UpdateSourceArgs": "enhvalderergal/WilliamAMPConfigs",
+        "UpdateSourceArgs": "enhvalderergal/DiscordWebhook-Youtube",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": true,
