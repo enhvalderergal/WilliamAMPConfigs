@@ -1,12 +1,1 @@
-[
-    {
-        "UpdateStageName": "UpdateGit",
-        "UpdateSourcePlatform": "Linux",
-        "UpdateSource": "GithubRelease",
-        "UpdateSourceArgs": "https://github.com/enhvalderergal/DiscordWebhook-Youtube.git",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
-        "DeleteAfterExtract": true,
-        "OneShot": false
-    }
-]
+[]
